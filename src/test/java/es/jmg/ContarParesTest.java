@@ -49,6 +49,5 @@ public class ContarParesTest {
         // arregloEsperado es algo así como la variable que guarda el valor del return del método original (el .java que no es de test)
 
         assertEquals(3, arregloEsperado,"Efectivamente, hay dos números pares en el arreglo de prueba");
-
     }
 }
