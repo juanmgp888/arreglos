@@ -2,12 +2,9 @@ package es.jmg;
 
 import java.util.Random;
 
-public class Arreglos {
-     // Creo un objeto de la clase random
+public class ContarPares {
+     // Creo un objeto de la clase Random para usar posteriormente su método random
     private Random aleatorio = new Random();
-  //  private byte contadorPares = 0;  
-
-    // crear un arreglo de 10 elementos y llenarlo con enteros
 
     public int[] crearArregloYRellenarlo(){
         // Relleno de un arreglo por asignación directa de valores.
