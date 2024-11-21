@@ -30,6 +30,6 @@ public class ContarPares {
         return contadorPares;
     }
     public static void main(String[] args) {
-        // Pruebas @Test
+        // TODO Pruebas @Test
     }
 }
